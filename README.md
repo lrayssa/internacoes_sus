@@ -64,7 +64,7 @@ A região Sudeste deve concentrar o maior número de prorrogaões de internaçã
 
 
 
-**VERDADEIRA.**A região Sudeste concentra o maior número de prorrogações tanto em valor absoltuo quanto em proporção ao total de AIH aprovadas, com destaque para os estados de São Paulo e Rio de Janeiro. Alagoas é um estado também possui taxas bastante elevadas de prorrogações.
+**VERDADEIRA.** A região Sudeste concentra o maior número de prorrogações tanto em valor absoltuo quanto em proporção ao total de AIH aprovadas, com destaque para os estados de São Paulo e Rio de Janeiro. Alagoas é um estado também possui taxas bastante elevadas de prorrogações.
 
 ![hipotese 11](references/h11.png)
 
